@@ -1,0 +1,7 @@
+C:\Users\ok\source\repos\PrecedenceOfOperators\PrecedenceOfOperators\bin\Debug\PrecedenceOfOperators.exe.config
+C:\Users\ok\source\repos\PrecedenceOfOperators\PrecedenceOfOperators\bin\Debug\PrecedenceOfOperators.exe
+C:\Users\ok\source\repos\PrecedenceOfOperators\PrecedenceOfOperators\bin\Debug\PrecedenceOfOperators.pdb
+C:\Users\ok\source\repos\PrecedenceOfOperators\PrecedenceOfOperators\obj\Debug\PrecedenceOfOperators.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\PrecedenceOfOperators\PrecedenceOfOperators\obj\Debug\PrecedenceOfOperators.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\PrecedenceOfOperators\PrecedenceOfOperators\obj\Debug\PrecedenceOfOperators.exe
+C:\Users\ok\source\repos\PrecedenceOfOperators\PrecedenceOfOperators\obj\Debug\PrecedenceOfOperators.pdb

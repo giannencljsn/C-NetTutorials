@@ -1,0 +1,7 @@
+C:\Users\ok\source\repos\Arithmetic Exercises\Arithmetic Exercises\bin\Debug\Arithmetic Exercises.exe.config
+C:\Users\ok\source\repos\Arithmetic Exercises\Arithmetic Exercises\bin\Debug\Arithmetic Exercises.exe
+C:\Users\ok\source\repos\Arithmetic Exercises\Arithmetic Exercises\bin\Debug\Arithmetic Exercises.pdb
+C:\Users\ok\source\repos\Arithmetic Exercises\Arithmetic Exercises\obj\Debug\Arithmetic Exercises.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\Arithmetic Exercises\Arithmetic Exercises\obj\Debug\Arithmetic Exercises.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\Arithmetic Exercises\Arithmetic Exercises\obj\Debug\Arithmetic Exercises.exe
+C:\Users\ok\source\repos\Arithmetic Exercises\Arithmetic Exercises\obj\Debug\Arithmetic Exercises.pdb

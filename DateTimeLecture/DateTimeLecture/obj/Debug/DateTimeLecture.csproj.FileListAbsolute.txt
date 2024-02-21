@@ -1,0 +1,7 @@
+C:\Users\ok\source\repos\DateTimeLecture\DateTimeLecture\bin\Debug\DateTimeLecture.exe.config
+C:\Users\ok\source\repos\DateTimeLecture\DateTimeLecture\bin\Debug\DateTimeLecture.exe
+C:\Users\ok\source\repos\DateTimeLecture\DateTimeLecture\bin\Debug\DateTimeLecture.pdb
+C:\Users\ok\source\repos\DateTimeLecture\DateTimeLecture\obj\Debug\DateTimeLecture.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\DateTimeLecture\DateTimeLecture\obj\Debug\DateTimeLecture.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\DateTimeLecture\DateTimeLecture\obj\Debug\DateTimeLecture.exe
+C:\Users\ok\source\repos\DateTimeLecture\DateTimeLecture\obj\Debug\DateTimeLecture.pdb

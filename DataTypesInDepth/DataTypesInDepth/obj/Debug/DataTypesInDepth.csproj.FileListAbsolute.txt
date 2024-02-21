@@ -1,0 +1,7 @@
+C:\Users\ok\source\repos\DataTypesInDepth\DataTypesInDepth\obj\Debug\DataTypesInDepth.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\DataTypesInDepth\DataTypesInDepth\obj\Debug\DataTypesInDepth.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\DataTypesInDepth\DataTypesInDepth\bin\Debug\DataTypesInDepth.exe.config
+C:\Users\ok\source\repos\DataTypesInDepth\DataTypesInDepth\bin\Debug\DataTypesInDepth.exe
+C:\Users\ok\source\repos\DataTypesInDepth\DataTypesInDepth\bin\Debug\DataTypesInDepth.pdb
+C:\Users\ok\source\repos\DataTypesInDepth\DataTypesInDepth\obj\Debug\DataTypesInDepth.exe
+C:\Users\ok\source\repos\DataTypesInDepth\DataTypesInDepth\obj\Debug\DataTypesInDepth.pdb

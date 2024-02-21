@@ -1,0 +1,7 @@
+C:\Users\ok\source\repos\var\var\bin\Debug\var.exe.config
+C:\Users\ok\source\repos\var\var\bin\Debug\var.exe
+C:\Users\ok\source\repos\var\var\bin\Debug\var.pdb
+C:\Users\ok\source\repos\var\var\obj\Debug\var.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\var\var\obj\Debug\var.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\var\var\obj\Debug\var.exe
+C:\Users\ok\source\repos\var\var\obj\Debug\var.pdb

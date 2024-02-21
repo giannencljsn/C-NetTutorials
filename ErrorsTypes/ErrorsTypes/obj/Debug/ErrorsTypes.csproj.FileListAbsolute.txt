@@ -1,0 +1,7 @@
+C:\Users\ok\source\repos\ErrorsTypes\ErrorsTypes\bin\Debug\ErrorsTypes.exe.config
+C:\Users\ok\source\repos\ErrorsTypes\ErrorsTypes\bin\Debug\ErrorsTypes.exe
+C:\Users\ok\source\repos\ErrorsTypes\ErrorsTypes\bin\Debug\ErrorsTypes.pdb
+C:\Users\ok\source\repos\ErrorsTypes\ErrorsTypes\obj\Debug\ErrorsTypes.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\ErrorsTypes\ErrorsTypes\obj\Debug\ErrorsTypes.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\ErrorsTypes\ErrorsTypes\obj\Debug\ErrorsTypes.exe
+C:\Users\ok\source\repos\ErrorsTypes\ErrorsTypes\obj\Debug\ErrorsTypes.pdb

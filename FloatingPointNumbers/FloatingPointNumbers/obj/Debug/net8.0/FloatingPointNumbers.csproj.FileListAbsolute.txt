@@ -1,0 +1,14 @@
+C:\Users\ok\source\repos\FloatingPointNumbers\FloatingPointNumbers\bin\Debug\net8.0\FloatingPointNumbers.exe
+C:\Users\ok\source\repos\FloatingPointNumbers\FloatingPointNumbers\bin\Debug\net8.0\FloatingPointNumbers.deps.json
+C:\Users\ok\source\repos\FloatingPointNumbers\FloatingPointNumbers\bin\Debug\net8.0\FloatingPointNumbers.runtimeconfig.json
+C:\Users\ok\source\repos\FloatingPointNumbers\FloatingPointNumbers\bin\Debug\net8.0\FloatingPointNumbers.dll
+C:\Users\ok\source\repos\FloatingPointNumbers\FloatingPointNumbers\bin\Debug\net8.0\FloatingPointNumbers.pdb
+C:\Users\ok\source\repos\FloatingPointNumbers\FloatingPointNumbers\obj\Debug\net8.0\FloatingPointNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ok\source\repos\FloatingPointNumbers\FloatingPointNumbers\obj\Debug\net8.0\FloatingPointNumbers.AssemblyInfoInputs.cache
+C:\Users\ok\source\repos\FloatingPointNumbers\FloatingPointNumbers\obj\Debug\net8.0\FloatingPointNumbers.AssemblyInfo.cs
+C:\Users\ok\source\repos\FloatingPointNumbers\FloatingPointNumbers\obj\Debug\net8.0\FloatingPointNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\FloatingPointNumbers\FloatingPointNumbers\obj\Debug\net8.0\FloatingPointNumbers.dll
+C:\Users\ok\source\repos\FloatingPointNumbers\FloatingPointNumbers\obj\Debug\net8.0\refint\FloatingPointNumbers.dll
+C:\Users\ok\source\repos\FloatingPointNumbers\FloatingPointNumbers\obj\Debug\net8.0\FloatingPointNumbers.pdb
+C:\Users\ok\source\repos\FloatingPointNumbers\FloatingPointNumbers\obj\Debug\net8.0\FloatingPointNumbers.genruntimeconfig.cache
+C:\Users\ok\source\repos\FloatingPointNumbers\FloatingPointNumbers\obj\Debug\net8.0\ref\FloatingPointNumbers.dll

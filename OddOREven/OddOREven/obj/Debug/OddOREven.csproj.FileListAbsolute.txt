@@ -1,0 +1,7 @@
+C:\Users\ok\source\repos\OddOREven\OddOREven\bin\Debug\OddOREven.exe.config
+C:\Users\ok\source\repos\OddOREven\OddOREven\bin\Debug\OddOREven.exe
+C:\Users\ok\source\repos\OddOREven\OddOREven\bin\Debug\OddOREven.pdb
+C:\Users\ok\source\repos\OddOREven\OddOREven\obj\Debug\OddOREven.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\OddOREven\OddOREven\obj\Debug\OddOREven.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\OddOREven\OddOREven\obj\Debug\OddOREven.exe
+C:\Users\ok\source\repos\OddOREven\OddOREven\obj\Debug\OddOREven.pdb

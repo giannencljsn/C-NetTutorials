@@ -1,0 +1,7 @@
+C:\Users\ok\source\repos\EscapeSequences\EscapeSequences\bin\Debug\EscapeSequences.exe.config
+C:\Users\ok\source\repos\EscapeSequences\EscapeSequences\bin\Debug\EscapeSequences.exe
+C:\Users\ok\source\repos\EscapeSequences\EscapeSequences\bin\Debug\EscapeSequences.pdb
+C:\Users\ok\source\repos\EscapeSequences\EscapeSequences\obj\Debug\EscapeSequences.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\EscapeSequences\EscapeSequences\obj\Debug\EscapeSequences.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\EscapeSequences\EscapeSequences\obj\Debug\EscapeSequences.exe
+C:\Users\ok\source\repos\EscapeSequences\EscapeSequences\obj\Debug\EscapeSequences.pdb

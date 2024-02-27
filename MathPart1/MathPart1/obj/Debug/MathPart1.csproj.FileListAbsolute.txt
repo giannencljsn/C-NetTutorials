@@ -1,0 +1,7 @@
+C:\Users\ok\source\repos\MathPart1\MathPart1\bin\Debug\MathPart1.exe.config
+C:\Users\ok\source\repos\MathPart1\MathPart1\bin\Debug\MathPart1.exe
+C:\Users\ok\source\repos\MathPart1\MathPart1\bin\Debug\MathPart1.pdb
+C:\Users\ok\source\repos\MathPart1\MathPart1\obj\Debug\MathPart1.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\MathPart1\MathPart1\obj\Debug\MathPart1.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\MathPart1\MathPart1\obj\Debug\MathPart1.exe
+C:\Users\ok\source\repos\MathPart1\MathPart1\obj\Debug\MathPart1.pdb

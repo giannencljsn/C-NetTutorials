@@ -1,0 +1,7 @@
+C:\Users\ok\source\repos\StringManipulation\StringManipulation\bin\Debug\StringManipulation.exe.config
+C:\Users\ok\source\repos\StringManipulation\StringManipulation\bin\Debug\StringManipulation.exe
+C:\Users\ok\source\repos\StringManipulation\StringManipulation\bin\Debug\StringManipulation.pdb
+C:\Users\ok\source\repos\StringManipulation\StringManipulation\obj\Debug\StringManipulation.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\StringManipulation\StringManipulation\obj\Debug\StringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\StringManipulation\StringManipulation\obj\Debug\StringManipulation.exe
+C:\Users\ok\source\repos\StringManipulation\StringManipulation\obj\Debug\StringManipulation.pdb

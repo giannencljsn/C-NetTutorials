@@ -1,0 +1,7 @@
+C:\Users\ok\source\repos\MathPt2\MathPt2\bin\Debug\MathPt2.exe.config
+C:\Users\ok\source\repos\MathPt2\MathPt2\bin\Debug\MathPt2.exe
+C:\Users\ok\source\repos\MathPt2\MathPt2\bin\Debug\MathPt2.pdb
+C:\Users\ok\source\repos\MathPt2\MathPt2\obj\Debug\MathPt2.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\MathPt2\MathPt2\obj\Debug\MathPt2.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\MathPt2\MathPt2\obj\Debug\MathPt2.exe
+C:\Users\ok\source\repos\MathPt2\MathPt2\obj\Debug\MathPt2.pdb

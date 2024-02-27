@@ -1,0 +1,7 @@
+C:\Users\ok\source\repos\ArraysPt2\ArraysPt2\bin\Debug\ArraysPt2.exe.config
+C:\Users\ok\source\repos\ArraysPt2\ArraysPt2\bin\Debug\ArraysPt2.exe
+C:\Users\ok\source\repos\ArraysPt2\ArraysPt2\bin\Debug\ArraysPt2.pdb
+C:\Users\ok\source\repos\ArraysPt2\ArraysPt2\obj\Debug\ArraysPt2.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\ArraysPt2\ArraysPt2\obj\Debug\ArraysPt2.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\ArraysPt2\ArraysPt2\obj\Debug\ArraysPt2.exe
+C:\Users\ok\source\repos\ArraysPt2\ArraysPt2\obj\Debug\ArraysPt2.pdb

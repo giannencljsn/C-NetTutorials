@@ -1,0 +1,7 @@
+C:\Users\ok\source\repos\MoreLogicalOperators\MoreLogicalOperators\bin\Debug\MoreLogicalOperators.exe.config
+C:\Users\ok\source\repos\MoreLogicalOperators\MoreLogicalOperators\bin\Debug\MoreLogicalOperators.exe
+C:\Users\ok\source\repos\MoreLogicalOperators\MoreLogicalOperators\bin\Debug\MoreLogicalOperators.pdb
+C:\Users\ok\source\repos\MoreLogicalOperators\MoreLogicalOperators\obj\Debug\MoreLogicalOperators.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\MoreLogicalOperators\MoreLogicalOperators\obj\Debug\MoreLogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\MoreLogicalOperators\MoreLogicalOperators\obj\Debug\MoreLogicalOperators.exe
+C:\Users\ok\source\repos\MoreLogicalOperators\MoreLogicalOperators\obj\Debug\MoreLogicalOperators.pdb

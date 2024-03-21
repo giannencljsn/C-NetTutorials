@@ -1,0 +1,7 @@
+C:\Users\ok\source\repos\SimpleMethodExercise\SimpleMethodExercise\bin\Debug\SimpleMethodExercise.exe.config
+C:\Users\ok\source\repos\SimpleMethodExercise\SimpleMethodExercise\bin\Debug\SimpleMethodExercise.exe
+C:\Users\ok\source\repos\SimpleMethodExercise\SimpleMethodExercise\bin\Debug\SimpleMethodExercise.pdb
+C:\Users\ok\source\repos\SimpleMethodExercise\SimpleMethodExercise\obj\Debug\SimpleMethodExercise.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\SimpleMethodExercise\SimpleMethodExercise\obj\Debug\SimpleMethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\SimpleMethodExercise\SimpleMethodExercise\obj\Debug\SimpleMethodExercise.exe
+C:\Users\ok\source\repos\SimpleMethodExercise\SimpleMethodExercise\obj\Debug\SimpleMethodExercise.pdb

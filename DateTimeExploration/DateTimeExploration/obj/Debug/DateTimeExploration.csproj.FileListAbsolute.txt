@@ -1,0 +1,7 @@
+C:\Users\ok\source\repos\DateTimeExploration\DateTimeExploration\bin\Debug\DateTimeExploration.exe.config
+C:\Users\ok\source\repos\DateTimeExploration\DateTimeExploration\bin\Debug\DateTimeExploration.exe
+C:\Users\ok\source\repos\DateTimeExploration\DateTimeExploration\bin\Debug\DateTimeExploration.pdb
+C:\Users\ok\source\repos\DateTimeExploration\DateTimeExploration\obj\Debug\DateTimeExploration.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\DateTimeExploration\DateTimeExploration\obj\Debug\DateTimeExploration.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\DateTimeExploration\DateTimeExploration\obj\Debug\DateTimeExploration.exe
+C:\Users\ok\source\repos\DateTimeExploration\DateTimeExploration\obj\Debug\DateTimeExploration.pdb

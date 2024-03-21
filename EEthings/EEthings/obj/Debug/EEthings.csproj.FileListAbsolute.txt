@@ -1,0 +1,7 @@
+C:\Users\ok\source\repos\EEthings\EEthings\bin\Debug\EEthings.exe.config
+C:\Users\ok\source\repos\EEthings\EEthings\bin\Debug\EEthings.exe
+C:\Users\ok\source\repos\EEthings\EEthings\bin\Debug\EEthings.pdb
+C:\Users\ok\source\repos\EEthings\EEthings\obj\Debug\EEthings.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\EEthings\EEthings\obj\Debug\EEthings.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\EEthings\EEthings\obj\Debug\EEthings.exe
+C:\Users\ok\source\repos\EEthings\EEthings\obj\Debug\EEthings.pdb

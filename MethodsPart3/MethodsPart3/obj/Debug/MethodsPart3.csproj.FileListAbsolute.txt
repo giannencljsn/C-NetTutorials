@@ -1,0 +1,7 @@
+C:\Users\ok\source\repos\MethodsPart3\MethodsPart3\bin\Debug\MethodsPart3.exe.config
+C:\Users\ok\source\repos\MethodsPart3\MethodsPart3\bin\Debug\MethodsPart3.exe
+C:\Users\ok\source\repos\MethodsPart3\MethodsPart3\bin\Debug\MethodsPart3.pdb
+C:\Users\ok\source\repos\MethodsPart3\MethodsPart3\obj\Debug\MethodsPart3.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\MethodsPart3\MethodsPart3\obj\Debug\MethodsPart3.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\MethodsPart3\MethodsPart3\obj\Debug\MethodsPart3.exe
+C:\Users\ok\source\repos\MethodsPart3\MethodsPart3\obj\Debug\MethodsPart3.pdb
